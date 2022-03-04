@@ -7,6 +7,12 @@
 - 👯 I’m looking to collaborate with creative people. Especially with those who love to design things. I'm more into code and logic 
 - 📫 How to reach me: malin.ekenvarn@gmail.com
 - ⚡ Fun fact: I like fantasy and medieval things. I'm an archer and a member of my local archery club :bow_and_arrow:
+- 
+
+## Some projects:
+
+ [Creepy Bookshop](https://studenter.miun.se/~maek2105/dt163g/project/index.html) (currently only Swedish language)
+ 
 
 ## Languages and tools:
 
